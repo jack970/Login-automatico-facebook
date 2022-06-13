@@ -8,9 +8,9 @@ $ pip install requirements.txt
 ```
 
 ### 2. Configure as credenciais para logar no Facebook
-1. Vá para configs
-2. Delete ".example" do nome do arquivo ".env.example"
-3. E Coloque suas credenciais de login do Facebook em `configs/.env`
+1. Vá para `/configs`
+2. O arquivo `.env.example` deve deve se chamar `.env`
+3. E Coloque suas credenciais de login do Facebook em `/configs/.env`
 ```bash
 USUARIO= # Coloque seu usuário de login aqui
 SENHA= # Coloque sua senha de login aqui
