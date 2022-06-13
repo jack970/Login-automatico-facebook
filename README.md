@@ -16,9 +16,9 @@ USUARIO= # Coloque seu usuário de login aqui
 SENHA= # Coloque sua senha de login aqui
 ```
 
-### 3. Executando a aplicação
+### 3. Execute a aplicação
 ```bash
-$ python logar_facebook.py
+$ python main.py
 ```
 
 ### 🛠 Tecnologias usadas:
