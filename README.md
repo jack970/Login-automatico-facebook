@@ -4,7 +4,7 @@
 
 ### 1. 🎲 Instale as dependências
 ```bash
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### 2. Configure as credenciais para logar no Facebook
